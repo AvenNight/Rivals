@@ -83,7 +83,6 @@
     <Compile Include="ScenePainter.cs" />
     <Content Include="Images\Grass.png" />
     <Content Include="Images\Path.png" />
-    <Content Include="TEMP.txt" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
